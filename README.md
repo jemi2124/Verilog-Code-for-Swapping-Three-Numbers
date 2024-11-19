@@ -1,4 +1,5 @@
 # Verilog-Code-for-Swapping-Three-Numbers
+
 Aim
 To design and simulate a Verilog HDL code for swapping the values of three numbers without using any temporary variables, and verify the correctness of the swapping operation through a testbench using the Vivado 2023.1 simulation environment.
 
@@ -12,6 +13,7 @@ Open Vivado and create a new project.
 Write the Verilog Code for Swapping:
 
 Write the Verilog code that swaps the values of three numbers (a, b, and c) using basic arithmetic or bitwise operations without using temporary variables.
+
 Create the Testbench:
 
 Write a testbench to simulate the swapping operation. The testbench should initialize three numbers, trigger the swapping module, and check if the values are swapped correctly.
