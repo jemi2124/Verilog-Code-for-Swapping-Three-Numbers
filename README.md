@@ -13,6 +13,7 @@ Procedure:
 Launch Vivado 2023.1:
 
 Open Vivado and create a new project.
+
 Write the Verilog Code for Swapping:
 
 Write the Verilog code that swaps the values of three numbers (a, b, and c) using basic arithmetic or bitwise operations without using temporary variables.
